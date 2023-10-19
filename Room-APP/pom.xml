@@ -14,7 +14,7 @@
 	<name>Room-APP</name>
 	<description>H2 db source and JPA to connect with it</description>
 	<properties>
-		<java.version>20</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
